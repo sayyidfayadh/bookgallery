@@ -1,0 +1,67 @@
+*{
+  
+  font-family: "Arvo", serif;
+
+}
+header{
+  background-color: cadetblue;
+  height: 50px;
+  width: 100%;
+}
+header h1{
+  color: white;
+  text-align: center;
+  text-shadow: 1px 4px 1px black;
+  padding: 8px;
+}
+.row{
+  background-color: rgb(168, 168, 120);
+  height: 800px;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+.col{
+  background-color: white;
+  padding: 10px;
+  height: 500px;
+  border: 5px ridge beige;
+  margin-top: 20px;
+  margin-left: 40px;
+
+}
+img{
+  width: 200px;
+  border: 5px ridge beige;
+}
+h2{
+  background-color: burlywood;
+  text-align: center;
+  font-weight: lighter;
+
+}
+h4{
+  text-align: center;
+
+}
+button{
+  color: white;
+  margin-left:70px;
+  padding: 5px;
+  border-style: inset;
+  border-radius: 5px;
+  background-color:red;
+  cursor: pointer;
+}
+
+p{
+  margin-left: 20px;
+  color: blueviolet;
+}
+.banner{
+  background-image: url(https://static.vecteezy.com/system/resources/thumbnails/007/651/627/small/bookshelf-with-children-s-books-literature-for-boys-children-s-reading-colorful-books-covers-banner-for-school-library-bookstore-fair-festival-vector.jpg);
+  height: 200px;
+  width: 100%;
+
+}
+
